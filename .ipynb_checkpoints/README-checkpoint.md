@@ -18,17 +18,10 @@ En [este otro](Pruebas.ipynb) tienes un _Jupyter Notebook_ donde puedes ver un e
 
 > Sobre la implementación de la aplicación de la calculadora en Python de la actividad anterior:
 > - Comprueba las clases de equivalencia de las funciones isNumber y división
-
 > - Halla en grafo de flujo asociado a las funciones division y multiplicación.
-
 > - Genera los pruebas unitarias con UnitTest o PyTest correspondientes a las funciones:
-
-![prueba_unitaria](./img/jupiterlabtestpy.png)
-
 > - - isNumber, division. Caja Negra y Caja Blanca para ambas.
-
 > - - multiplicacion. Caja Blanca.
-
 ---
 ## ENTREGA
 
