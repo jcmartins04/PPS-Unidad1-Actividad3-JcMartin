@@ -21,7 +21,7 @@ En [este otro](Pruebas.ipynb) tienes un _Jupyter Notebook_ donde puedes ver un e
 
 > - Halla en grafo de flujo asociado a las funciones division y multiplicación.
 
-![grafos de flujo](grafos_flujo.md)
+  ![Enlace a los grafos de flujo](grafos_flujo.md)
 
 > - Genera los pruebas unitarias con UnitTest o PyTest correspondientes a las funciones:
 
