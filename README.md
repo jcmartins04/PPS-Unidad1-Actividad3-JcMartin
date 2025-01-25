@@ -23,7 +23,7 @@ En [este otro](Pruebas.ipynb) tienes un _Jupyter Notebook_ donde puedes ver un e
 
 > - Genera los pruebas unitarias con UnitTest o PyTest correspondientes a las funciones:
 
-![prueba_unitaria](/img/jupiterlabtestpy.png)
+![prueba_unitaria](img/jupyterlabtestpy.png)
 
 > - - isNumber, division. Caja Negra y Caja Blanca para ambas.
 
